@@ -1,0 +1,501 @@
+code;contents;value;status;warehouse;country;city;capacity
+GPY6;Scissors;649;waiting_pickup;1;Canada;Toronto;259
+2W3F;Scissors;377;waiting_pickup;8;Canada;Montreal;544
+BMTM;Staplers;166;waiting_pickup;6;USA;Chicago;153
+9DOV;Markers;383;returned;5;Canada;Montreal;307
+QBWB;Scissors;224;waiting_pickup;9;USA;San Francisco;720
+BTC3;Pencils;357;waiting_pickup;6;Canada;Toronto;452
+TNZ5;Markers;212;delivered;2;Canada;Toronto;518
+SX4N;Notebooks;293;waiting_pickup;4;Canada;Montreal;326
+CLH7;Markers;237;waiting_pickup;4;Canada;Montreal;404
+FVKX;Markers;455;returned;1;USA;Los Angeles;773
+A1Z7;Markers;670;delivered;9;USA;Los Angeles;743
+KEQQ;Notebooks;518;waiting_pickup;7;Canada;Vancouver;104
+8P4J;Notebooks;541;waiting_pickup;9;Canada;Montreal;527
+CA0I;Staplers;246;waiting_pickup;3;Canada;Vancouver;722
+B1FU;Staplers;265;delivered;5;USA;New York;715
+H442;Markers;552;waiting_pickup;6;USA;Chicago;138
+GEXO;Staplers;266;returned;2;Canada;Montreal;627
+FQ2O;Pencils;337;waiting_pickup;5;USA;Los Angeles;283
+G66A;Staplers;282;waiting_pickup;10;USA;San Francisco;135
+ALEU;Pencils;221;returned;2;USA;Los Angeles;143
+X7VW;Markers;616;returned;6;USA;San Francisco;251
+ABH0;Pencils;250;waiting_pickup;1;Canada;Montreal;685
+VKF5;Markers;331;delivered;6;Canada;Montreal;683
+UQVC;Pencils;282;delivered;4;USA;Chicago;578
+V8P9;Staplers;427;delivered;8;USA;New York;146
+9DWL;Staplers;551;waiting_pickup;2;Canada;Montreal;489
+96SV;Notebooks;425;delivered;10;Canada;Montreal;372
+H9GF;Markers;449;lost;1;Canada;Montreal;299
+X3YU;Scissors;574;returned;4;USA;New York;280
+A45Z;Notebooks;545;waiting_pickup;4;USA;New York;422
+8IEE;Notebooks;459;lost;1;USA;Los Angeles;469
+NUNB;Staplers;254;waiting_pickup;10;Canada;Montreal;637
+B01Q;Markers;455;lost;6;Canada;Montreal;648
+RHOW;Markers;483;waiting_pickup;5;Canada;Vancouver;322
+IQD3;Notebooks;476;waiting_pickup;2;Canada;Toronto;253
+KVGN;Scissors;124;waiting_pickup;6;USA;New York;741
+L4L1;Staplers;326;delivered;2;USA;Los Angeles;135
+G9BN;Notebooks;419;waiting_pickup;8;Canada;Toronto;655
+QB2C;Pencils;447;waiting_pickup;4;Canada;Vancouver;666
+WNYW;Notebooks;285;returned;2;Canada;Montreal;562
+P9MB;Pencils;588;returned;7;USA;San Francisco;701
+VIUP;Notebooks;493;waiting_pickup;7;Canada;Toronto;214
+PRKE;Pencils;614;returned;6;USA;New York;409
+9V23;Markers;513;delivered;6;USA;Los Angeles;650
+JV8R;Staplers;669;waiting_pickup;7;Canada;Toronto;247
+HEB5;Paper;269;waiting_pickup;7;Canada;Toronto;365
+8VAM;Notebooks;531;waiting_pickup;9;USA;Los Angeles;790
+R2LY;Pencils;474;waiting_pickup;3;Canada;Vancouver;401
+1IOF;Staplers;485;waiting_pickup;9;Canada;Toronto;266
+T3RZ;Notebooks;522;returned;1;Canada;Montreal;231
+W7SW;Notebooks;406;returned;1;Canada;Toronto;369
+32QM;Notebooks;537;waiting_pickup;4;Canada;Vancouver;342
+CNW2;Markers;336;waiting_pickup;4;Canada;Vancouver;271
+CFRY;Pencils;147;returned;1;Canada;Vancouver;465
+TFPK;Notebooks;367;delivered;3;USA;New York;197
+ZI3X;Pencils;571;waiting_pickup;8;Canada;Toronto;164
+ECHE;Paper;317;returned;3;Canada;Toronto;482
+1U0S;Staplers;632;waiting_pickup;1;Canada;Montreal;254
+L4SU;Scissors;207;waiting_pickup;1;USA;New York;151
+2TFL;Scissors;239;waiting_pickup;4;USA;Chicago;684
+7BMC;Notebooks;552;waiting_pickup;6;Canada;Montreal;389
+9FED;Markers;174;waiting_pickup;6;Canada;Toronto;288
+JW49;Pencils;134;returned;4;Canada;Toronto;314
+N8MM;Markers;182;waiting_pickup;3;Canada;Vancouver;614
+L8S9;Markers;181;waiting_pickup;1;Canada;Toronto;634
+C46N;Paper;434;returned;7;USA;Los Angeles;624
+T8M6;Scissors;326;waiting_pickup;5;USA;New York;706
+TNKY;Notebooks;353;waiting_pickup;1;USA;Los Angeles;318
+Q7GE;Markers;553;delivered;9;USA;Los Angeles;340
+IW5M;Markers;681;returned;7;USA;Los Angeles;285
+GJPT;Scissors;615;waiting_pickup;8;Canada;Vancouver;168
+P2BZ;Markers;324;waiting_pickup;4;USA;New York;155
+V9YI;Notebooks;263;delivered;6;USA;San Francisco;672
+FX70;Notebooks;407;delivered;8;Canada;Toronto;704
+X969;Notebooks;629;waiting_pickup;7;USA;San Francisco;102
+2TAT;Scissors;649;delivered;8;Canada;Vancouver;752
+Q8VC;Pencils;209;waiting_pickup;4;USA;San Francisco;118
+ECAU;Paper;300;returned;3;Canada;Montreal;228
+LBSS;Scissors;681;waiting_pickup;7;USA;San Francisco;632
+3D3S;Notebooks;482;waiting_pickup;8;USA;San Francisco;599
+IM9R;Notebooks;216;delivered;9;Canada;Toronto;538
+6EZW;Staplers;113;waiting_pickup;2;Canada;Montreal;665
+YV5E;Paper;426;waiting_pickup;8;USA;New York;568
+MV34;Markers;583;returned;7;USA;San Francisco;621
+5QF1;Pencils;699;waiting_pickup;5;USA;New York;707
+9KXD;Paper;277;waiting_pickup;6;USA;San Francisco;789
+XLLF;Paper;436;waiting_pickup;10;USA;San Francisco;452
+72SY;Notebooks;304;delivered;1;Canada;Vancouver;434
+NAO6;Pencils;383;delivered;7;USA;Los Angeles;116
+X1UD;Notebooks;538;waiting_pickup;1;Canada;Toronto;670
+4MEE;Pencils;154;returned;9;Canada;Vancouver;760
+P8RB;Scissors;429;delivered;5;Canada;Vancouver;667
+87BE;Notebooks;394;delivered;3;Canada;Montreal;637
+IJ3P;Scissors;442;waiting_pickup;8;USA;Los Angeles;178
+KZFK;Notebooks;406;returned;7;USA;San Francisco;553
+O61F;Paper;434;returned;1;USA;Los Angeles;769
+PBIC;Notebooks;366;delivered;2;USA;Chicago;102
+RS9K;Notebooks;690;delivered;1;USA;Chicago;184
+48NY;Markers;258;delivered;6;USA;Chicago;537
+W7M9;Notebooks;565;delivered;1;USA;New York;551
+W3CY;Paper;154;delivered;10;Canada;Montreal;104
+XU3M;Staplers;191;waiting_pickup;10;Canada;Montreal;188
+5K0Q;Staplers;367;waiting_pickup;9;Canada;Montreal;501
+9O2V;Staplers;255;delivered;1;Canada;Toronto;427
+TEUY;Paper;680;waiting_pickup;5;Canada;Vancouver;441
+CZ5Z;Notebooks;464;delivered;7;USA;Los Angeles;536
+ME2M;Paper;167;waiting_pickup;10;Canada;Toronto;451
+SO37;Scissors;675;delivered;7;Canada;Toronto;155
+F0YJ;Markers;132;delivered;3;Canada;Montreal;576
+9LY4;Notebooks;308;delivered;1;Canada;Montreal;123
+MH6L;Notebooks;305;delivered;2;USA;San Francisco;197
+VV6U;Paper;633;delivered;9;Canada;Montreal;510
+NENU;Markers;135;waiting_pickup;3;Canada;Toronto;348
+LMGJ;Paper;548;waiting_pickup;8;Canada;Vancouver;642
+X9Y4;Pencils;597;delivered;10;USA;San Francisco;348
+7I4Q;Scissors;562;delivered;5;Canada;Toronto;713
+9F10;Pencils;385;delivered;9;Canada;Vancouver;263
+YIRS;Staplers;642;delivered;3;Canada;Toronto;434
+E3CL;Markers;362;waiting_pickup;2;Canada;Vancouver;688
+6NWE;Notebooks;319;delivered;4;USA;New York;282
+CN2V;Paper;313;delivered;5;USA;Los Angeles;686
+6JHZ;Luxury pens;309;lost;3;USA;New York;449
+174J;Pencils;319;waiting_pickup;6;USA;Chicago;720
+3SBV;Staplers;181;waiting_pickup;9;Canada;Vancouver;581
+2JSH;Notebooks;610;waiting_pickup;7;Canada;Vancouver;115
+GQVU;Pencils;559;returned;6;USA;Chicago;576
+Q1MR;Markers;419;waiting_pickup;10;USA;San Francisco;779
+D5BE;Notebooks;633;delivered;5;Canada;Montreal;792
+Q4GW;Notebooks;524;waiting_pickup;7;Canada;Vancouver;272
+CCO5;Markers;300;waiting_pickup;5;USA;San Francisco;265
+VAT1;Paper;688;delivered;6;USA;Los Angeles;351
+KIFT;Notebooks;589;waiting_pickup;3;USA;San Francisco;131
+TBOA;Markers;358;returned;6;USA;Chicago;643
+VE23;Scissors;439;waiting_pickup;2;USA;San Francisco;447
+ZR3N;Markers;165;delivered;8;Canada;Montreal;775
+LF2J;Notebooks;265;delivered;2;USA;Los Angeles;450
+2ARY;Paper;310;waiting_pickup;4;Canada;Montreal;505
+LIBU;Staplers;589;returned;2;Canada;Montreal;326
+2S11;Pencils;600;returned;10;USA;San Francisco;213
+Z7KK;Paper;271;delivered;7;USA;San Francisco;157
+2CCD;Markers;199;waiting_pickup;10;USA;Chicago;615
+23ZX;Pencils;307;waiting_pickup;4;USA;New York;269
+GZ73;Staplers;550;waiting_pickup;1;USA;Los Angeles;637
+NMB2;Paper;437;delivered;6;USA;Los Angeles;519
+A9BC;Notebooks;455;delivered;9;USA;San Francisco;706
+QA0J;Paper;184;returned;6;Canada;Montreal;794
+MTOV;Paper;287;waiting_pickup;9;USA;Los Angeles;640
+NVPG;Paper;138;waiting_pickup;2;USA;San Francisco;798
+R7B8;Staplers;294;delivered;5;USA;Chicago;609
+BI3Q;Paper;127;returned;10;USA;Chicago;173
+8CGC;Paper;161;waiting_pickup;6;Canada;Toronto;647
+RS40;Notebooks;575;returned;2;USA;San Francisco;409
+VCO3;Pencils;158;delivered;10;USA;Chicago;649
+VCIR;Pencils;277;delivered;7;USA;Chicago;339
+0W9Y;Paper;245;delivered;7;Canada;Toronto;745
+VKM1;Notebooks;223;waiting_pickup;8;Canada;Vancouver;229
+EU81;Staplers;345;delivered;9;Canada;Montreal;661
+57OJ;Paper;626;waiting_pickup;4;USA;Los Angeles;466
+NUMC;Paper;617;waiting_pickup;2;USA;New York;419
+Y3E9;Notebooks;688;delivered;9;Canada;Vancouver;193
+82WN;Notebooks;182;waiting_pickup;6;Canada;Vancouver;590
+FOLU;Scissors;508;waiting_pickup;1;Canada;Toronto;332
+L5EO;Markers;154;delivered;9;Canada;Montreal;439
+RJGE;Scissors;698;returned;2;Canada;Vancouver;151
+H4NI;Notebooks;517;returned;4;USA;New York;282
+WVY8;Scissors;466;waiting_pickup;4;Canada;Montreal;336
+1EN8;Markers;333;waiting_pickup;1;USA;Chicago;553
+J2QO;Scissors;434;returned;8;USA;Los Angeles;315
+NPWA;Notebooks;457;waiting_pickup;3;USA;Los Angeles;279
+K18V;Paper;593;delivered;6;USA;New York;786
+YEXF;Pencils;121;waiting_pickup;5;USA;New York;189
+0GWM;Notebooks;325;waiting_pickup;1;Canada;Vancouver;353
+PF7J;Scissors;195;waiting_pickup;9;USA;Chicago;347
+XS1W;Scissors;430;waiting_pickup;3;USA;Los Angeles;332
+2BC8;Pencils;246;delivered;7;Canada;Toronto;667
+XYRG;Paper;438;waiting_pickup;1;Canada;Toronto;342
+LB1G;Staplers;632;returned;1;USA;San Francisco;690
+4WQP;Markers;119;delivered;7;USA;New York;425
+8N1E;Staplers;149;returned;6;USA;New York;417
+I811;Paper;122;returned;2;Canada;Montreal;540
+EN28;Markers;199;returned;2;Canada;Toronto;569
+L33P;Markers;567;waiting_pickup;7;USA;Los Angeles;148
+LNX2;Paper;482;waiting_pickup;3;Canada;Montreal;162
+EQDW;Staplers;302;waiting_pickup;4;Canada;Toronto;297
+5PN4;Markers;344;returned;2;Canada;Toronto;498
+CWGD;Paper;696;waiting_pickup;1;USA;Los Angeles;147
+2YHG;Notebooks;660;delivered;9;Canada;Montreal;592
+BNLC;Paper;305;waiting_pickup;6;USA;San Francisco;331
+JE6W;Staplers;213;delivered;5;USA;Los Angeles;298
+Y08C;Notebooks;349;delivered;1;Canada;Montreal;415
+6CSX;Scissors;126;delivered;2;USA;New York;536
+058W;Notebooks;313;delivered;9;Canada;Vancouver;565
+076L;Paper;390;delivered;6;USA;Chicago;293
+L0J1;Markers;130;waiting_pickup;8;USA;San Francisco;784
+KU62;Pencils;327;waiting_pickup;1;Canada;Montreal;616
+149C;Scissors;628;waiting_pickup;2;USA;Chicago;386
+KZ27;Markers;309;waiting_pickup;6;USA;Chicago;369
+YPM2;Paper;170;delivered;1;Canada;Vancouver;363
+OBSK;Staplers;189;waiting_pickup;7;Canada;Montreal;798
+90SI;Notebooks;509;waiting_pickup;1;Canada;Toronto;743
+U9N9;Scissors;535;waiting_pickup;8;Canada;Toronto;190
+AGQ6;Staplers;382;waiting_pickup;2;Canada;Toronto;632
+S5W3;Paper;549;delivered;6;USA;New York;705
+V8FV;Pencils;406;delivered;1;Canada;Toronto;497
+Z3FS;Paper;462;lost;7;USA;Chicago;554
+CJZR;Pencils;443;delivered;7;Canada;Toronto;302
+HCRN;Pencils;199;delivered;6;Canada;Toronto;337
+BR3M;Pencils;442;delivered;10;Canada;Vancouver;727
+EJFV;Scissors;176;waiting_pickup;8;USA;Chicago;201
+Z06M;Pencils;615;waiting_pickup;3;USA;Los Angeles;733
+MD3P;Scissors;213;delivered;2;Canada;Montreal;731
+DO4V;Paper;406;delivered;4;USA;Los Angeles;748
+B8WI;Staplers;273;delivered;2;Canada;Toronto;630
+U041;Staplers;346;delivered;6;USA;San Francisco;684
+66CJ;Luxury pens;555;lost;6;Canada;Montreal;114
+TSEH;Scissors;434;delivered;2;Canada;Montreal;662
+YH78;Staplers;261;waiting_pickup;3;Canada;Toronto;496
+WF82;Pencils;122;waiting_pickup;8;USA;New York;313
+55XM;Luxury pens;564;lost;3;USA;Los Angeles;454
+9NJH;Notebooks;224;waiting_pickup;4;USA;San Francisco;127
+DYV7;Markers;618;waiting_pickup;4;Canada;Vancouver;238
+RKLM;Pencils;563;waiting_pickup;4;USA;New York;297
+3NF0;Pencils;296;waiting_pickup;5;USA;New York;571
+R851;Luxury pens;211;lost;3;USA;Chicago;343
+2Q3G;Luxury pens;451;lost;1;Canada;Toronto;477
+L418;Markers;440;waiting_pickup;10;Canada;Montreal;724
+RYIQ;Markers;675;waiting_pickup;8;USA;New York;476
+ZPB8;Staplers;555;waiting_pickup;9;Canada;Vancouver;198
+RX73;Luxury pens;152;lost;6;Canada;Toronto;443
+M2TT;Markers;455;delivered;7;USA;San Francisco;156
+73JC;Paper;247;delivered;10;USA;New York;654
+MEFD;Markers;200;waiting_pickup;1;USA;Los Angeles;518
+U6UO;Luxury pens;233;delivered;1;Canada;Montreal;344
+1QYR;Luxury pens;572;waiting_pickup;9;USA;New York;694
+HIF9;Markers;331;delivered;7;USA;Los Angeles;302
+UL6K;Scissors;467;waiting_pickup;1;USA;Chicago;467
+YCS9;Staplers;565;waiting_pickup;4;USA;New York;281
+ZABK;Luxury pens;157;delivered;7;USA;San Francisco;475
+F2OO;Markers;700;waiting_pickup;5;USA;New York;266
+GRHE;Paper;352;delivered;3;Canada;Toronto;434
+E65S;Paper;225;delivered;1;USA;New York;253
+MQR8;Pencils;176;waiting_pickup;1;USA;San Francisco;654
+C96F;Markers;433;delivered;9;USA;Los Angeles;408
+3GCA;Pencils;524;waiting_pickup;3;Canada;Montreal;380
+SXT1;Luxury pens;414;delivered;7;Canada;Montreal;632
+5WKX;Pencils;491;delivered;3;USA;San Francisco;519
+YK6J;Luxury pens;329;waiting_pickup;9;USA;San Francisco;458
+XFYI;Notebooks;269;waiting_pickup;8;USA;San Francisco;552
+2DOM;Scissors;285;lost;7;Canada;Toronto;687
+2NTR;Staplers;206;delivered;9;Canada;Montreal;502
+O8XW;Paper;591;delivered;7;USA;Chicago;533
+9J34;Staplers;430;lost;5;USA;New York;737
+I1ZR;Notebooks;108;delivered;4;Canada;Montreal;444
+HDW5;Luxury pens;531;delivered;3;USA;Chicago;206
+00VK;Staplers;491;delivered;2;Canada;Vancouver;719
+4KW9;Notebooks;435;waiting_pickup;4;USA;San Francisco;689
+0KZ5;Staplers;675;delivered;10;USA;San Francisco;667
+BUSY;Scissors;104;delivered;9;USA;Chicago;121
+5EQC;Paper;538;waiting_pickup;3;Canada;Toronto;418
+COPN;Paper;558;waiting_pickup;8;USA;New York;708
+JAM9;Pencils;644;waiting_pickup;4;USA;Los Angeles;527
+44CF;Staplers;476;waiting_pickup;2;USA;New York;135
+ZMXI;Paper;338;lost;2;Canada;Montreal;523
+R3U6;Luxury pens;199;lost;8;Canada;Montreal;143
+FC7A;Staplers;579;waiting_pickup;3;USA;New York;180
+PG1E;Pencils;181;waiting_pickup;4;Canada;Vancouver;220
+NT3V;Pencils;119;delivered;9;USA;San Francisco;547
+RTPT;Luxury pens;324;lost;4;USA;New York;104
+NT5S;Markers;599;waiting_pickup;6;Canada;Montreal;643
+0YMN;Notebooks;147;delivered;9;USA;New York;315
+F11Z;Paper;169;waiting_pickup;8;Canada;Toronto;495
+OR29;Markers;245;delivered;3;Canada;Montreal;656
+GIWP;Markers;437;delivered;2;USA;Chicago;162
+1Y7C;Staplers;176;delivered;8;USA;Los Angeles;217
+L3DW;Markers;411;waiting_pickup;9;USA;Chicago;617
+E8VN;Markers;124;waiting_pickup;2;USA;San Francisco;390
+6VZ0;Markers;340;waiting_pickup;5;USA;Los Angeles;522
+74K5;Paper;250;waiting_pickup;6;USA;Los Angeles;674
+1ZO0;Paper;622;delivered;6;Canada;Vancouver;783
+T5D3;Markers;195;delivered;8;Canada;Toronto;122
+JKZX;Staplers;498;waiting_pickup;7;USA;New York;430
+876N;Staplers;118;waiting_pickup;1;USA;San Francisco;263
+MMRV;Staplers;654;lost;1;Canada;Vancouver;125
+SQ5Y;Luxury pens;294;waiting_pickup;10;USA;New York;730
+G4HK;Staplers;435;delivered;3;USA;Chicago;799
+7UGN;Markers;535;delivered;4;USA;Chicago;688
+OL4K;Luxury pens;272;delivered;9;USA;New York;451
+KPYX;Luxury pens;177;delivered;6;USA;New York;219
+UADO;Scissors;257;waiting_pickup;2;Canada;Toronto;641
+MTAK;Luxury pens;290;waiting_pickup;8;USA;San Francisco;123
+F24K;Paper;585;delivered;10;Canada;Vancouver;403
+YGKP;Luxury pens;406;delivered;5;USA;Chicago;523
+IYX8;Paper;170;delivered;9;Canada;Vancouver;517
+IXR0;Pencils;397;waiting_pickup;6;Canada;Vancouver;487
+ZG8Y;Paper;127;delivered;7;USA;San Francisco;451
+MNJE;Markers;203;waiting_pickup;5;USA;New York;207
+EQV6;Scissors;606;delivered;9;USA;San Francisco;662
+Z228;Staplers;390;delivered;2;Canada;Vancouver;656
+7DQ8;Staplers;162;delivered;5;USA;Los Angeles;376
+XGWY;Staplers;292;waiting_pickup;8;Canada;Vancouver;685
+9X61;Scissors;627;waiting_pickup;1;USA;Los Angeles;393
+EC1P;Luxury pens;150;waiting_pickup;6;USA;Los Angeles;745
+SGCS;Staplers;442;delivered;7;Canada;Vancouver;786
+5IHV;Pencils;551;waiting_pickup;9;USA;Los Angeles;110
+W4GU;Scissors;285;waiting_pickup;3;USA;New York;605
+XPSP;Scissors;190;delivered;6;Canada;Montreal;176
+JU71;Staplers;468;waiting_pickup;3;USA;San Francisco;592
+PHH4;Notebooks;208;delivered;8;USA;San Francisco;534
+4SWW;Scissors;467;delivered;5;USA;Chicago;396
+09JB;Paper;235;delivered;7;USA;San Francisco;258
+GIY1;Notebooks;542;lost;2;Canada;Vancouver;703
+753D;Luxury pens;249;delivered;7;Canada;Montreal;484
+MQ5J;Luxury pens;161;delivered;4;Canada;Toronto;716
+9HUV;Scissors;597;delivered;4;Canada;Toronto;572
+28DL;Markers;605;delivered;4;Canada;Vancouver;358
+OYLP;Staplers;500;delivered;2;Canada;Vancouver;774
+8VFQ;Scissors;405;delivered;2;Canada;Montreal;705
+UWYB;Luxury pens;227;delivered;1;Canada;Vancouver;353
+7IQY;Paper;188;delivered;9;Canada;Montreal;494
+3GPP;Notebooks;179;delivered;10;Canada;Montreal;250
+D3B8;Luxury pens;687;delivered;2;Canada;Vancouver;741
+75HP;Paper;184;delivered;8;Canada;Toronto;310
+HJL3;Pencils;232;delivered;5;Canada;Vancouver;756
+HSCS;Notebooks;460;delivered;6;USA;Chicago;140
+IQOF;Scissors;537;delivered;4;Canada;Toronto;454
+XE5G;Scissors;567;delivered;7;Canada;Montreal;214
+ICYY;Staplers;321;delivered;9;USA;New York;697
+J3N7;Markers;233;delivered;8;USA;Chicago;405
+749V;Markers;669;delivered;5;USA;Chicago;328
+3STH;Luxury pens;493;delivered;2;Canada;Montreal;171
+AGY1;Paper;511;lost;2;USA;Chicago;382
+UOOO;Scissors;183;returned;8;Canada;Toronto;174
+6AOB;Staplers;246;delivered;7;Canada;Toronto;385
+J65X;Markers;117;delivered;10;USA;Los Angeles;106
+KLCO;Markers;290;delivered;6;USA;Chicago;756
+EA8T;Staplers;486;delivered;7;Canada;Vancouver;378
+BQYP;Pencils;633;returned;1;USA;New York;399
+X8A3;Paper;218;delivered;6;Canada;Montreal;718
+W2DN;Notebooks;118;returned;6;USA;Chicago;275
+F5HY;Scissors;159;delivered;8;Canada;Vancouver;412
+ACL9;Pencils;176;delivered;6;Canada;Vancouver;632
+9QI5;Luxury pens;622;delivered;6;Canada;Vancouver;266
+2GZH;Markers;573;returned;5;USA;San Francisco;524
+6V6J;Pencils;314;delivered;9;USA;New York;573
+TT9F;Pencils;536;delivered;6;Canada;Vancouver;555
+WCW7;Staplers;171;delivered;1;USA;New York;630
+NVOR;Staplers;178;delivered;2;USA;Los Angeles;143
+Y3IH;Pencils;549;delivered;1;Canada;Montreal;535
+6TQS;Markers;547;returned;2;USA;Los Angeles;627
+ID4J;Pencils;566;returned;4;Canada;Toronto;127
+OHBE;Markers;354;delivered;3;USA;New York;123
+1R6W;Staplers;592;returned;9;USA;San Francisco;529
+7VWU;Notebooks;361;delivered;9;USA;Chicago;238
+2AJ2;Scissors;455;delivered;6;Canada;Montreal;535
+P1XC;Pencils;434;delivered;3;USA;Los Angeles;513
+0CVV;Pencils;678;delivered;9;Canada;Vancouver;790
+4J8A;Pencils;542;delivered;6;Canada;Vancouver;752
+C9RV;Notebooks;591;delivered;10;Canada;Vancouver;607
+ZGTO;Luxury pens;171;delivered;5;Canada;Montreal;134
+CDS4;Staplers;360;delivered;3;USA;San Francisco;315
+PNNO;Scissors;214;delivered;3;Canada;Vancouver;331
+5KVD;Markers;356;delivered;8;USA;Los Angeles;749
+6JO3;Staplers;166;delivered;3;Canada;Montreal;188
+40HK;Scissors;555;delivered;9;Canada;Montreal;583
+59SC;Paper;316;delivered;9;Canada;Montreal;605
+HOPZ;Paper;432;delivered;1;Canada;Montreal;678
+X1H6;Staplers;644;delivered;8;USA;Chicago;389
+MG39;Pencils;160;delivered;7;USA;San Francisco;655
+1DGV;Paper;298;delivered;1;USA;Los Angeles;308
+F64H;Scissors;178;returned;7;Canada;Vancouver;654
+LBSY;Pencils;435;delivered;1;USA;Los Angeles;683
+DTLF;Staplers;337;delivered;3;USA;New York;168
+3H50;Scissors;364;delivered;4;USA;San Francisco;211
+RMVC;Notebooks;274;returned;4;Canada;Montreal;245
+KTB3;Notebooks;279;delivered;8;USA;Chicago;657
+NLLC;Scissors;595;delivered;9;USA;Chicago;648
+9S6J;Scissors;328;returned;1;USA;New York;713
+LSSK;Notebooks;374;delivered;9;USA;Los Angeles;610
+KRN8;Staplers;294;delivered;3;USA;New York;393
+O89N;Markers;298;returned;2;Canada;Vancouver;194
+EBLL;Notebooks;144;delivered;6;Canada;Vancouver;779
+3QCU;Luxury pens;294;delivered;6;USA;New York;215
+SYOJ;Notebooks;543;returned;9;Canada;Toronto;353
+1C0M;Notebooks;583;returned;5;Canada;Montreal;441
+BC6X;Markers;544;delivered;9;USA;New York;672
+2V8U;Luxury pens;609;returned;5;USA;Los Angeles;276
+V4VP;Staplers;606;returned;2;Canada;Vancouver;128
+23D7;Luxury pens;161;delivered;8;Canada;Toronto;638
+NBDH;Scissors;260;delivered;5;USA;New York;476
+JTBY;Notebooks;275;delivered;7;USA;Chicago;410
+A526;Scissors;269;delivered;10;USA;New York;125
+5LLT;Markers;693;delivered;9;Canada;Vancouver;173
+8A4V;Paper;341;delivered;2;Canada;Vancouver;477
+HUFF;Staplers;480;delivered;2;USA;Chicago;444
+5MI3;Pencils;514;delivered;6;Canada;Toronto;516
+2Q9I;Markers;691;delivered;7;Canada;Toronto;574
+P0OY;Staplers;296;delivered;8;USA;Los Angeles;223
+WOMD;Luxury pens;258;delivered;2;USA;New York;329
+DQXJ;Markers;600;returned;7;Canada;Toronto;183
+NEO7;Pencils;467;delivered;3;USA;Chicago;234
+3BG5;Scissors;597;returned;9;USA;Los Angeles;224
+LKLO;Luxury pens;357;delivered;9;USA;San Francisco;353
+OBI2;Scissors;607;returned;8;Canada;Montreal;739
+PHCR;Luxury pens;493;delivered;2;USA;Los Angeles;160
+FF3U;Scissors;290;delivered;7;Canada;Montreal;595
+ISZ4;Pencils;310;returned;8;USA;San Francisco;325
+KM89;Paper;285;delivered;9;USA;Los Angeles;621
+N8GQ;Scissors;255;delivered;9;Canada;Toronto;112
+GWKN;Paper;472;returned;6;Canada;Vancouver;172
+N1HO;Pencils;249;returned;3;USA;Los Angeles;720
+KPVZ;Staplers;326;returned;10;USA;San Francisco;409
+L6XB;Markers;144;returned;3;USA;New York;756
+5S6U;Paper;435;delivered;1;USA;San Francisco;236
+4PJ6;Notebooks;367;delivered;8;Canada;Vancouver;463
+KJ4V;Pencils;392;delivered;8;Canada;Montreal;745
+594Q;Pencils;504;delivered;9;Canada;Vancouver;568
+ZKRE;Markers;306;delivered;7;USA;New York;632
+H01B;Notebooks;314;returned;10;USA;Los Angeles;131
+3SY7;Luxury pens;134;returned;7;USA;New York;714
+XH4Y;Luxury pens;647;delivered;6;USA;Chicago;369
+JHB0;Notebooks;447;delivered;1;USA;New York;561
+ZSB7;Pencils;135;delivered;5;USA;New York;650
+FQSD;Luxury pens;252;delivered;5;USA;New York;539
+69O0;Markers;470;delivered;3;USA;Los Angeles;303
+IE42;Scissors;667;delivered;2;Canada;Toronto;240
+HDM6;Markers;414;delivered;9;Canada;Montreal;227
+M7MG;Scissors;452;delivered;6;Canada;Vancouver;303
+3RZZ;Scissors;553;delivered;4;USA;Chicago;618
+I80T;Notebooks;197;delivered;9;Canada;Montreal;664
+ABC3;Scissors;591;lost;2;Canada;Toronto;373
+O7JW;Markers;480;delivered;5;Canada;Toronto;419
+7GQ3;Scissors;505;delivered;8;USA;Los Angeles;741
+P5FZ;Luxury pens;300;lost;10;USA;Chicago;413
+K2TS;Luxury pens;430;delivered;5;USA;Los Angeles;408
+CN4T;Luxury pens;672;delivered;7;Canada;Montreal;174
+FJ22;Staplers;691;delivered;7;USA;New York;601
+TP8A;Luxury pens;415;returned;3;Canada;Montreal;375
+37EZ;Notebooks;103;delivered;8;USA;Chicago;357
+EB20;Scissors;584;delivered;5;Canada;Toronto;147
+1QT8;Staplers;650;delivered;6;USA;Chicago;796
+LCWK;Notebooks;312;delivered;4;Canada;Vancouver;422
+CE5O;Paper;273;delivered;3;Canada;Montreal;267
+T838;Markers;612;delivered;10;Canada;Vancouver;625
+7NOH;Markers;649;delivered;6;Canada;Montreal;442
+FUNN;Notebooks;574;delivered;7;USA;Chicago;467
+IQZW;Staplers;613;delivered;6;USA;Chicago;234
+EI44;Scissors;642;delivered;5;Canada;Toronto;346
+HZL7;Luxury pens;648;delivered;7;USA;San Francisco;365
+X8L2;Paper;410;delivered;6;USA;Los Angeles;682
+ISCC;Staplers;178;delivered;8;Canada;Toronto;719
+MV82;Scissors;591;waiting_pickup;2;Canada;Montreal;407
+MNP3;Scissors;641;delivered;8;Canada;Toronto;642
+KT2Q;Markers;482;delivered;1;USA;San Francisco;498
+DGIR;Notebooks;105;delivered;10;USA;Los Angeles;359
+8LIN;Notebooks;381;delivered;3;Canada;Toronto;171
+DQON;Staplers;457;delivered;9;USA;New York;601
+Y3DB;Luxury pens;364;delivered;7;USA;New York;660
+ZO26;Staplers;228;delivered;4;USA;San Francisco;604
+L8B9;Scissors;351;waiting_pickup;1;Canada;Montreal;105
+O7OW;Markers;174;returned;9;USA;Chicago;568
+V8C2;Scissors;631;returned;7;USA;Los Angeles;450
+FUA8;Markers;103;delivered;4;Canada;Toronto;622
+G8D7;Staplers;700;delivered;6;USA;Los Angeles;676
+NXC5;Markers;669;returned;7;Canada;Montreal;422
+Q0IP;Luxury pens;559;returned;6;Canada;Vancouver;179
+ZMMU;Pencils;422;delivered;7;Canada;Toronto;148
+GWJU;Paper;456;returned;5;USA;Los Angeles;608
+40MP;Luxury pens;165;delivered;2;USA;Los Angeles;623
+ZZ5A;Pencils;493;delivered;1;USA;Los Angeles;764
+VFIB;Staplers;493;returned;4;Canada;Toronto;702
+83J5;Markers;221;delivered;6;USA;Los Angeles;386
+9RQZ;Paper;220;delivered;4;USA;Los Angeles;452
+QP7J;Staplers;653;delivered;10;USA;Los Angeles;402
+MIF4;Pencils;599;delivered;5;USA;San Francisco;269
+K0DH;Markers;457;delivered;6;USA;San Francisco;323
+I56X;Pencils;521;delivered;2;Canada;Montreal;232
+A5HG;Pencils;692;delivered;6;USA;San Francisco;584
+BEDK;Notebooks;395;delivered;5;Canada;Vancouver;483
+FYKW;Pencils;499;delivered;10;Canada;Vancouver;593
+Y0IH;Luxury pens;525;lost;1;USA;New York;448
+63NA;Notebooks;144;delivered;5;Canada;Toronto;196
+WPWL;Scissors;647;delivered;5;USA;New York;516
+P77C;Staplers;546;delivered;1;Canada;Montreal;346
+CJGO;Notebooks;530;delivered;2;Canada;Toronto;225
+LJ6P;Notebooks;168;delivered;9;Canada;Toronto;106
+SQ9J;Pencils;334;delivered;6;USA;New York;142
+02YK;Notebooks;468;waiting_pickup;9;Canada;Toronto;671
+QGD1;Scissors;110;lost;4;USA;San Francisco;755
+2RWG;Staplers;332;delivered;6;USA;Chicago;707
+8WEN;Notebooks;611;delivered;9;Canada;Toronto;633
+JT2Q;Paper;621;delivered;4;USA;New York;312
+O18H;Notebooks;105;delivered;4;USA;Chicago;185
+VNL9;Notebooks;698;delivered;8;Canada;Montreal;287
+Y6E3;Paper;406;delivered;7;Canada;Toronto;152
+5OKM;Paper;491;waiting_pickup;2;Canada;Montreal;613
+DJA6;Notebooks;287;delivered;3;USA;San Francisco;547
+AQEW;Notebooks;163;waiting_pickup;1;Canada;Vancouver;600
+TQE1;Scissors;239;delivered;1;USA;Chicago;726
+U0N3;Paper;239;waiting_pickup;8;Canada;Montreal;709
+IZ19;Markers;481;delivered;3;USA;Los Angeles;513

@@ -1,0 +1,53 @@
+
+------------------------------------------------BD------------------
+ CREATE TABLE Warehouses (
+   code INTEGER PRIMARY KEY NOT NULL,
+   country TEXT NOT NULL ,
+   city TEXT NOT NULL ,
+   capacity INTEGER NOT NULL
+ );
+ 
+ CREATE TABLE Boxes (
+   code TEXT PRIMARY KEY NOT NULL,
+   contents TEXT NOT NULL ,
+   value REAL NOT NULL ,
+   status TEXT NOT NULL ,
+   warehouse INTEGER NOT NULL, 
+   CONSTRAINT fk_Warehouses_Code FOREIGN KEY (warehouse) REFERENCES Warehouses(Code)
+ );
+
+
+
+
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(1,'USA','Chicago',300);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(2,'USA','Chicago',400);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(3,'USA','New York',700);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(4,'USA','Los Angeles',200);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(5,'USA','San Francisco',800);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(6,'USA','Houston',500);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(7,'USA','Miami',300);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(8,'Canada','Toronto',600);
+INSERT INTO Warehouses(code,country,city,capacity) VALUES(9,'Canada','Vancouver',400);
+
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('0MN7','Rocks',180,'waiting_pickup',3);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('4H8P','Rocks',250,'waiting_pickup',1);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('4RT3','Scissors',190,'waiting_pickup',8);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('7G3H','Rocks',200,'waiting_pickup',1);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('8JN6','Papers',75,'waiting_pickup',1);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('8Y6U','Papers',50,'waiting_pickup',3);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('9J6F','Papers',175,'waiting_pickup',8);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('LL08','Rocks',140,'waiting_pickup',4);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('P0H6','Scissors',125,'returned',1);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('P2T6','Scissors',150,'returned',2);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('TU55','Papers',90,'waiting_pickup',5);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('G1H2','Pencils',220,'waiting_pickup',5);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('I3J4','Markers',130,'waiting_pickup',3);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('K5L6','Notebooks',70,'waiting_pickup',2);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('M7N8','Staplers',190,'waiting_pickup',4);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('O9P0','Papers',160,'waiting_pickup',1);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('Q1R2','Pencils',120,'waiting_pickup',3);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('S3T4','Markers',210,'waiting_pickup',5);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('U5V6','Notebooks',140,'lost',2);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('W7X8','Staplers',230,'waiting_pickup',4);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('Y9Z0','Papers',90,'waiting_pickup',8);
+INSERT INTO Boxes(code,contents,value,status,Warehouse) VALUES('Y9Z1','Papers',90,'delivered',8);
